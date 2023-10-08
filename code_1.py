@@ -1,55 +1,59 @@
+    }
+    });
+}
 
-    data = generate_random_data()
+    for (let i = 0; i < 10; i++) {
+        console.log("Random Number: " + item);
+function main() {
+    const data = generateRandomData();
+main();
 
+
+        data.push(Math.floor(Math.random() * 100) + 1);
+function generateRandomData() {
+    const data = [];
+    return data;
+}
+    data.forEach(item => {
 def main():
-    return data
-    for item in data:
-        print(f"Random Number: {item}")
 
     main()
     data = [random.randint(1, 100) for _ in range(10)]
-
-import random
-if __name__ == "__main__":
-def generate_random_data():        }
-        }
-    }
-    public static void main(String[] args) {
-            data[i] = (int) (Math.random() * 100) + 1;
-public class RandomDataGenerator {
-
-
-        for (int item : data) {
-}
-        int[] data = new int[10];
-            System.out.println("Random Number: " + item);
-        for (int i = 0; i < 10; i++) {
-        data.push(Math.floor(Math.random() * 100) + 1);
-    const data = [];
-        console.log("Random Number: " + item);
-
-function main() {
-function generateRandomData() {
-    for (let i = 0; i < 10; i++) {
-}
-    return data;
-    const data = generateRandomData();
-}
-
-    }
-    data.forEach(item => {
-    });
-main();    main()
 def generate_random_data():
-
+    return data
+        print(f"Random Number: {item}")
 
     for item in data:
-
 if __name__ == "__main__":
 import random
     data = generate_random_data()
-        print(f"Random Number: {item}")
+        data.push(Math.floor(Math.random() * 100) + 1);
+
+}
+    return data;
+    for (let i = 0; i < 10; i++) {
+main();
+
+    const data = generateRandomData();
+
+        console.log("Random Number: " + item);
+    const data = [];
+function main() {
+function generateRandomData() {
+    });
+    }
+    data.forEach(item => {
+}    for item in data:
+
+def generate_random_data():
 
     return data
-def main():
     data = [random.randint(1, 100) for _ in range(10)]
+if __name__ == "__main__":
+import random
+def main():
+
+        print(f"Random Number: {item}")
+    data = generate_random_data()
+
+    main()
